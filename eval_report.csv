@@ -1,0 +1,7 @@
+﻿图片,真实标签,预测标签,置信度,ImageNet原始类别
+/Users/mzf/Desktop/dog-and-cat/data/test/cat/cat1.jpg,cat,cat,0.6835,tiger cat(#282)
+/Users/mzf/Desktop/dog-and-cat/data/test/cat/cat2.jpg,cat,cat,0.0119,wallaby(#104)
+/Users/mzf/Desktop/dog-and-cat/data/test/cat/cat4.jpg,cat,cat,0.8008,tabby(#281)
+/Users/mzf/Desktop/dog-and-cat/data/test/dog/dog1.jpg,dog,dog,0.9819,golden retriever(#207)
+/Users/mzf/Desktop/dog-and-cat/data/test/dog/dog2.jpg,dog,dog,0.9945,kuvasz(#222)
+/Users/mzf/Desktop/dog-and-cat/data/test/dog/dog3.jpg,dog,dog,0.0045,necklace(#679)
